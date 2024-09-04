@@ -1,4 +1,8 @@
 # Hacker Rank Challenges - TypeScript
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+![HackerRank](https://img.shields.io/badge/-HackerRank-333333?style=flat&logo=hackerrank)
+
 This repository is to show my resolutions to Hacker Rank challenges using TypeScript.
 
 [Solve Me Fist](https://www.hackerrank.com/challenges/solve-me-first/problem?isFullScreen=true)
