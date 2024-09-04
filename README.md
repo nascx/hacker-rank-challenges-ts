@@ -5,7 +5,7 @@
 
 This repository is to show my resolutions to Hacker Rank challenges using TypeScript. Below are the links to the exercises.
 
-Obs.: The resolutions are named the same as the exercise names
+Obs.: The resolutions are named the same as the exercise names.
 
 [Solve Me Fist](https://www.hackerrank.com/challenges/solve-me-first/problem?isFullScreen=true)
 
